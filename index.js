@@ -67,7 +67,7 @@ const displayVideos = (videos) => {
 
     videoContainer.innerHTML = `
     <div class="col-span-full flex flex-col justify-center items-center py-48">
-        <img class="w-36 pb-8" src="./assets/Icon.png" alt="No content">
+        <img class="w-36 pb-8" src="assets/Icon.png" alt="No content">
         <h2 class="font-bold text-4xl text-center items-center">Oops!! Sorry, There is no <br>content here</h2>
     </div>`
 
